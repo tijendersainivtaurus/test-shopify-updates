@@ -176,7 +176,19 @@
               "type": "group",
               "settings": {
                 "color_scheme": ""
-              }
+              },
+              "blocks": {
+                "text_cFa4rq": {
+                  "type": "text",
+                  "settings": {
+                    "text": "",
+                    "alignment": "left"
+                  }
+                }
+              },
+              "block_order": [
+                "text_cFa4rq"
+              ]
             }
           },
           "block_order": [
